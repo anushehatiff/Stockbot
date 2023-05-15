@@ -13,4 +13,4 @@ async def on_ready():
     await bot.add_cog(responses.Replies(bot))
 
 
-bot.run("MTEwMjQ1MjY0NzIxNjI5MTk0Mg.GlFyo3.asSM9gSOO0wpgwD3leSrCvCJt-mYh2wg72LHRU")
+bot.run("TOKEN")
